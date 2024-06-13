@@ -1,0 +1,13 @@
+import PopupModal from '@/components/shared/popup-modal';
+import TableSearchInput from '@/components/shared/table-search-input';
+import StudentCreateForm from '../student-forms/student-create-form';
+
+export default function StudentTableActions() {
+  return (
+    <div className="flex items-center justify-between py-5">
+      <div className="flex flex-1 gap-4">
+        
+      </div>
+    </div>
+  );
+}
